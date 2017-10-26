@@ -8,3 +8,9 @@
 * Training the data takes large amout of time. (One solution would be to use Google Cloud Platform). 
 ### Expectation
 * The car being able to drive itself with minimal crashes. 
+### Concepts
+This project is based on a paper by  Mariusz Bojarski, Ben Firner, Beat Flepp, Larry Jackel, Urs Muller and Karol Zieb for Nvidia called End-to-End Deep Learning for Self-Driving Cars [Linked Here](https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/)
+#### **Training the Neural Network**
+![Image of Neural Net Model](https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2016/08/training-768x358.png)
+#### **Neural Network Architecture** 
+![Image of Net Architacture](https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2016/08/cnn-architecture-768x1095.png)
