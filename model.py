@@ -5,4 +5,4 @@ from keras.models import Sequential
 from keras.optimizers import Adam
 from keras.callbacks import ModelCheckpoint
 from keras.layers import Lambda, Dropout, Conv2D, MaxPool2D, Dense, Flatten
-from utils import INP
+from utils import INPUT_SHAPE
