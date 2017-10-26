@@ -13,4 +13,5 @@ This project is based on a paper by  Mariusz Bojarski, Ben Firner, Beat Flepp, L
 #### **Training the Neural Network**
 ![Image of Neural Net Model](https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2016/08/training-768x358.png)
 #### **Neural Network Architecture** 
+Please note that the 1164 layer neural network and the 200 filter convolutional neural net is ommited from the project due to computatinal limitations. 
 ![Image of Net Architacture](https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2016/08/cnn-architecture-768x1095.png)
